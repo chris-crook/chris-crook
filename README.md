@@ -1,8 +1,5 @@
-## Hi there 👋
+Full-time data analyst and part-time data analytics instructor (SQL, python, ML, stats, spreadsheets).
 
+Tool agnostic but lean towards SQL, R, and Tableau. 
 
-I am a data analytics instructor who teaches SQL, Python, Machine Learning, and spreadsheets (I know, but it's the world we live in 🤷‍♂️)
-
-I also am a full-time data analyst straddling the role of Tableau viz wiz and inferential and predictive statistical modeling.
-
-
+Primary interest is the intersection of traditional statistical inference, quasi-experiments, RCTs, and decision science.
